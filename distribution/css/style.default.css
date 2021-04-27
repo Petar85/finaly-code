@@ -25,7 +25,7 @@ https://bootstrapious.com/p/universal-business-e-commerce-template
 .boxed #all {
   max-width: 1200px;
   margin: 0 auto;
-  background: #fff;
+  background: #ffff;
   -webkit-box-shadow: 0 0 5px #ccc;
   box-shadow: 0 0 5px #ccc;
 }
@@ -264,7 +264,7 @@ p.lead {
   width: 100px;
   height: 2px;
   margin-top: .6rem;
-  background: #00aec7;
+  background: #1e7e34;
 }
 
 .heading.text-center h1:after, .text-center.panel-heading h1:after, .heading.text-center h2:after, .text-center.panel-heading h2:after, .heading.text-center h3:after, .text-center.panel-heading h3:after, .heading.text-center h4:after, .text-center.panel-heading h4:after, .heading.text-center h5:after, .text-center.panel-heading h5:after, .heading.text-center h6:after, .text-center.panel-heading h6:after {
@@ -668,14 +668,14 @@ header.nav-holder.sticky {
   top: 0;
   left: 0;
   width: 100%;
-  background: #fff;
+  background: #ffff;
   z-index: 999;
   -webkit-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
 }
 
 #navbar {
-  background: #fff;
+  background: #ffff;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -758,7 +758,7 @@ header.nav-holder.sticky {
 
 #navbar .navbar-nav > li.active > a {
   background: #00aec7 !important;
-  color: #fff !important;
+  color: #ffff !important;
   text-decoration: none !important;
   border-color: #00aec7 !important;
 }
@@ -782,7 +782,7 @@ header.nav-holder.sticky {
 
 #navbar .navbar-nav > li > a:focus {
   background: #00aec7 !important;
-  color: #fff !important;
+  color: #ffff !important;
   text-decoration: none !important;
   border-color: #00aec7 !important;
 }
