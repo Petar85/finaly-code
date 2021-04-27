@@ -25,7 +25,7 @@ https://bootstrapious.com/p/universal-business-e-commerce-template
 .boxed #all {
   max-width: 1200px;
   margin: 0 auto;
-  background: #fff;
+  background: #ffff;
   -webkit-box-shadow: 0 0 5px #ccc;
   box-shadow: 0 0 5px #ccc;
 }
@@ -172,15 +172,15 @@ p.lead {
 }
 
 .color-white {
-  color: #fff !important;
+  color: #ffff !important;
 }
 
 .color-white * {
-  color: #fff !important;
+  color: #ffff !important;
 }
 
 .bg-white {
-  background: #fff !important;
+  background: #ffff !important;
 }
 
 .bg-fixed {
