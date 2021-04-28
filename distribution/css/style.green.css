@@ -670,7 +670,7 @@ header.nav-holder.sticky {
   width: 100%;
   background: #ffff;
   z-index: 999;
-  -webkit-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.9);
   box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.1);
 }
 
@@ -2374,7 +2374,7 @@ STYLE SWITCHER FOR DEMO
 }
 
 .navbar-light .navbar-brand {
-  color: rgba(0, 0, 0, 0.9);
+  color: rgba(0, 0, 0, 0.3);
 }
 
 .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
