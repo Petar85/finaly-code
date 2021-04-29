@@ -19,11 +19,11 @@ https://bootstrapious.com/p/universal-business-e-commerce-template
 *
 */
 .boxed {
-  background: url("../img/boxed-pattern.png");
+  background: url("");
 }
 
 .boxed #all {
-  max-width: 1200px;
+  max-width: 1600px;
   margin: 0 auto;
   background: #ffff;
   -webkit-box-shadow: 0 0 5px #ccc;
@@ -664,7 +664,7 @@ table input[type="number"] {
 }
 
 header.nav-holder.sticky {
-  position: fixed;
+  position: -webkit-sticky;
   top: 0;
   left: 0;
   width: 100%;
@@ -825,8 +825,8 @@ header.nav-holder.sticky {
   }
   #navbar .navbar-nav > li > a {
     padding: 0 10px;
-    height: 45px;
-    line-height: 45px;
+    height: 100px;
+    line-height: 100px;
     border-top: 0;
     font-size: 0.85rem;
     width: 100%;
